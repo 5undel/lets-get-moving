@@ -1,0 +1,1 @@
+web: gunicorn lets_get_moving.wsgi:application
